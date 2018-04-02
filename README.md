@@ -1,2 +1,0 @@
-# 1stsample
-first sample 
